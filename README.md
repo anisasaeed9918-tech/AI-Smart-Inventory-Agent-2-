@@ -84,7 +84,5 @@ The main goal of this project is to demonstrate how **Artificial Intelligence an
 
 **Anisa Saeed**
 
-Project developed as part of academic work in Artificial Intelligence and Business Intelligence applications.
-
 ---
 
